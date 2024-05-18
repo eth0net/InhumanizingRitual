@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ResearchProjectDef>
+    <defName>Inhumanize</defName>
+    <label>inhumanize</label>
+    <description>Perform a psychic ritual which inhumanizes a person.</description>
+    <tab>Anomaly</tab>
+    <prerequisites>
+      <li>Brainwipe</li>
+    </prerequisites>
+    <knowledgeCost>120</knowledgeCost>
+    <knowledgeCategory>Advanced</knowledgeCategory>
+    <researchViewX>7.50</researchViewX>
+    <researchViewY>0.10</researchViewY>
+    <generalRules>
+      <rulesStrings>
+        <li>subject->inhumanize</li>
+
+        <li>subject_story->studied the rituals of Horax cultists</li>
+        <li>subject_story->reconstructed primitive altars</li>
+        <li>subject_story->established the basics of psychic communication</li>
+        <li>subject_story->watched a failed void provocation ritual on a deathworld</li>
+        <li>subject_story->communed with an archotech shard atop a desert pillar</li>
+
+        <li>subject_gerund->inhumanizing a subject</li>
+
+        <li>subject_gerund->performing a ritual to inhumanize a subject</li>
+      </rulesStrings>
+    </generalRules>
+  </ResearchProjectDef>
+
+</Defs>

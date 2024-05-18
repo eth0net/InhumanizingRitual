@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <InhumanizeCompleteText>{INVOKER_nameDef} has finished performing {RITUAL_definite} ritual, chaotically inhumanizing {TARGET_nameDef}'s mind.</InhumanizeCompleteText>
+  <InhumanizeMentalBreak>{TARGET_pronoun} is now experiencing a break of humanity.</InhumanizeMentalBreak>
+  <InhumanizeTargetComa>{TARGET_pronoun} will remain in a coma for {1}.</InhumanizeTargetComa>
+
+</LanguageData>

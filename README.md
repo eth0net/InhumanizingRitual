@@ -1,4 +1,4 @@
-# InhumanizingRitual
+# ![InhumanizingRitual](./About/Preview.png)
 
 Adds a new ritual to inhumanize your pawns!
 
@@ -8,7 +8,7 @@ Adds a new ritual to inhumanize your pawns!
 
 Adds a new ritual to the game that allows you to inhumanize your pawns without the inhumanization precept.
 
-Low quality rituals can cause pawns to fall into dark psychic comas or experience mental breaks.
+Low quality rituals can cause pawns to fall into a coma for a long time.
 
 ## Existing Saves
 

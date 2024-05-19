@@ -2,6 +2,8 @@
 
 Adds a new ritual to inhumanize your pawns!
 
+![Ritual](./Images/Ritual.png)
+
 **Commissioned in the RimWorld Mod Market**
 
 ## Features

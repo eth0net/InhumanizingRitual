@@ -28,7 +28,6 @@ Let me know if there are any bugs or requests, I'll happily do my best to fix th
 Open to contributions and suggestions!
   </description>
   <loadAfter>
-    <li>brrainz.harmony</li>
     <li>Ludeon.RimWorld</li>
     <li>Ludeon.RimWorld.Royalty</li>
     <li>Ludeon.RimWorld.Ideology</li>

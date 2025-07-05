@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <InhumanizingRitual.PsychicRitualDef_Inhumanize>
+    <defName>Inhumanize</defName>
+    <label>inhumanize</label>
+    <description>Inhumanize a person, dominating their mind with the psychic patterns of the void. Unfortunately, the disruptive effect of the ritual will induce a a break of humanity, and poor quality rituals will cause the target to fall into a coma.</description>
+    <outcomeDescription>The target will experience a break of humanity and become inhumanized.\n\nWith the current ritual quality, the target will also enter a coma for {0}.</outcomeDescription>
+    <researchPrerequisite>Inhumanize</researchPrerequisite>
+    <hoursUntilOutcome>6</hoursUntilOutcome>
+    <targetRole>InhumanizeTarget</targetRole>
+    <requiredOffering>
+      <filter>
+        <thingDefs>
+          <li>Shard</li>
+        </thingDefs>
+      </filter>
+      <count>1</count>
+    </requiredOffering>
+    <comaDurationDaysFromQualityCurve>
+      <points>
+        <li>(0, 30)</li>
+        <li>(0.5, 25)</li>
+        <li>(0.8, 0)</li>
+      </points>
+    </comaDurationDaysFromQualityCurve>
+    <cooldownHours>600</cooldownHours>
+    <chanterRole>ChanterAdvanced</chanterRole>
+    <iconPath>UI/PsychicRituals/PsychicRitual_Inhumanize</iconPath>
+  </InhumanizingRitual.PsychicRitualDef_Inhumanize>
+
+</Defs>
